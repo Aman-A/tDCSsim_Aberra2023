@@ -26,7 +26,8 @@ To be able to run all relevant functions:
 5) Alternatively, you can run the neuron repositioning algorithm on all positions for any cell type in the population using `repositionNeuronLayer.m`. Default arguments are for L2/3 PC clone #1. Note: Due to computational cost parallelization is recommended. A parallel for loop can be used to take advantage of all available CPUs by setting the optional argument `par_on` to 1. 
 
 ## Dependencies:
-MATLAB R2022a
+MATLAB R2022a and newer
+
 Toolboxes:
-Statistics and Machine Learning Toolbox
-Parallel Computing Toolbox (Optional, required for parallelized for loops)
+- Statistics and Machine Learning Toolbox
+- Parallel Computing Toolbox (Optional, required for parallelized for loops)
