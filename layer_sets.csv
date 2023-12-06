@@ -1,0 +1,2 @@
+ID,mesh_name,roi_name,Layer_Interp_File,num_elem,nlayers,depth_1,depth_2,depth_3,depth_4,depth_5,depth_6,depth_7,depth_8,depth_9,depth_10,depth_11
+10,almi5_v2.1_120k,handknob,interpLayersFS-4,3000,9,0.099,0.0993,0.4,0.466,0.5,0.524,0.75,0.753,0.95,0,0
