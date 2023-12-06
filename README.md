@@ -10,7 +10,7 @@ To be able to run all relevant functions:
 
 2) To plot figures using data simulated for the manuscript, first download the data from the following Zenodo repository:
 
-[link]
+[https://doi.org/10.5281/zenodo.10275614](https://doi.org/10.5281/zenodo.10275614)
 
 3) Place contents of `tDCSsim_Aberra2023_data` in `tDCSsim_Aberra2023` (top level directory):
     `nrn_sim_data/`
@@ -27,3 +27,6 @@ To be able to run all relevant functions:
 
 ## Dependencies:
 MATLAB R2022a
+Toolboxes:
+Statistics and Machine Learning Toolbox
+Parallel Computing Toolbox (Optional, required for parallelized for loops)
